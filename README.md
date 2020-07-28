@@ -1,6 +1,7 @@
 # proj
 记录我的一些应用工程的例子。
 
+
 一、配置多个MySQL服务
 方法：
 下载解压版MySQL后，
@@ -15,6 +16,7 @@ D:\mysql-5.7.27-2019\bin>mysqld install "mysql-2019" --defaults-file="D:\mysql-5
 Service successfully installed.
 
 完成。
+
 二、
 
 
