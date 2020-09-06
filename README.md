@@ -11,7 +11,7 @@ port=3307
 basedir=D:\mysql-5.7.27-2019
 datadir=D:\mysql-5.7.27-2019\data
 
-2、安装服务
+2、安装服务<br>
 以管理员身份运行cmd，进入：D:\mysql-5.7.27-2019\bin
 D:\mysql-5.7.27-2019\bin>mysqld install "mysql-2019" --defaults-file="D:\mysql-5.7.27-2019\my.ini"
 Service successfully installed.
