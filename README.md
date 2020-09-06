@@ -3,9 +3,9 @@
 
 
 一、配置多个MySQL服务  
-方法：
-下载解压版MySQL后，
-1、复制MySQL整个目录到本地，如D:\mysql-5.7.27-2019，修改my.ini，更改端口号port 及目录basedir,datadir，如下：
+方法：  
+下载解压版MySQL后，  
+1、复制MySQL整个目录到本地，如D:\mysql-5.7.27-2019，修改my.ini，更改端口号port 及目录basedir,datadir，如下：  
 [mysqld]
 port=3307
 basedir=D:\mysql-5.7.27-2019
